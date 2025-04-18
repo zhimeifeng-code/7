@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <o:DocumentProperties>
+  <o:Author>Administrator</o:Author>
+  <o:Created>2025-04-18T02:23:52Z</o:Created>
+  <o:LastSaved>2025-04-18T02:24:07Z</o:LastSaved>
+ </o:DocumentProperties>
+ <o:CustomDocumentProperties>
+  <o:ICV>42A91946ADA54674875D83948E69FC0E_11</o:ICV>
+  <o:KSOProductBuildVer>2052-12.1.0.20784</o:KSOProductBuildVer>
+ </o:CustomDocumentProperties>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Center" />
+   <ss:Font ss:Color="#000000" ss:FontName="宋体" ss:Size="11" />
+  </Style>
+  <Style ss:ID="S26" ss:Name="超链接">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#0000FF" ss:FontName="宋体" ss:Size="11" ss:Underline="Single" />
+  </Style>
+  <Style ss:ID="S69">
+   <ss:Alignment ss:Vertical="Center" />
+   <ss:Font ss:Color="#000000" ss:FontName="宋体" ss:Size="11" />
+   <ss:NumberFormat />
+  </Style>
+  <Style ss:ID="S70">
+   <ss:Alignment ss:Vertical="Center" />
+   <ss:Font ss:Color="#000000" ss:FontName="宋体" ss:Size="11" />
+   <ss:NumberFormat ss:Format="@" />
+  </Style>
+  <Style ss:ID="S71">
+   <ss:Alignment ss:Vertical="Center" ss:WrapText="1" />
+   <ss:Font ss:Color="#000000" ss:FontName="宋体" ss:Size="11" />
+   <ss:NumberFormat ss:Format="@" />
+  </Style>
+  <Style ss:ID="S72" ss:Parent="S26">
+   <ss:Alignment ss:Vertical="Center" />
+   <ss:Font ss:Color="#0000FF" ss:FontName="宋体" ss:Size="11" ss:Underline="Single" />
+   <ss:NumberFormat ss:Format="@" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="13.5" ss:DefaultColumnWidth="54" ss:ExpandedRowCount="5" ss:ExpandedColumnCount="23">
+   <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="84.75" />
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="99.75" />
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="169.5" />
+   <Column ss:Index="4" ss:Span="2" ss:AutoFitWidth="0" ss:Width="189" />
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="122.25" />
+   <Column ss:Index="8" ss:Span="2" ss:AutoFitWidth="0" ss:Width="336" />
+   <Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="282.75" />
+   <Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="82.5" />
+   <Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="62.25" />
+   <Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="92.25" />
+   <Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="195.75" />
+   <Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="137.25" />
+   <Column ss:Index="17" ss:Span="2" ss:AutoFitWidth="0" ss:Width="48.75" />
+   <Column ss:Index="20" ss:AutoFitWidth="0" ss:Width="42" />
+   <Column ss:Index="21" ss:AutoFitWidth="0" ss:Width="75.75" />
+   <Column ss:Index="22" ss:AutoFitWidth="0" ss:Width="99.75" />
+   <Column ss:Index="23" ss:AutoFitWidth="0" ss:Width="129.75" />
+   <Row ss:Index="1">
+    <Cell><Data ss:Type="String">category-id</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">category-name</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">title</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">title-ru</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">title-lv</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">title-ee</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">long-description</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">long-description-ru</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">long-description-lv</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">long-description-ee</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">video-youtube</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">id</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">value</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">colour-title</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">url</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">modification-title</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">weight</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">length</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">height</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">width</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">barcode</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">supplier-code</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">manufacturer-code</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2" ss:Height="148.5">
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">1268</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Shirts</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title LT language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in RU language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in LV language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in EE language</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">&amp;lt;div&gt;&#10;	&amp;lt;div&gt;&amp;lt;span&gt;Long description, can be with HTML&amp;lt;/span&gt;&amp;lt;br /&gt;&amp;lt;/div&gt;&#10;		&amp;lt;div&gt;Some long description&amp;lt;/div&gt;&#10;		&amp;lt;/div&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in RU language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in LV language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in EE language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S72" ss:HRef="http://www.youtube.com/watch?v=65Chy5kPQ-Y"><Data ss:Type="String">http://www.youtube.com/watch?v=65Chy5kPQ-Y</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">manufacturer</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Comfoline</Data>
+    </Cell>
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S69" />
+    <Cell ss:StyleID="S69" />
+    <Cell ss:StyleID="S69" />
+    <Cell ss:StyleID="S69" />
+    <Cell ss:StyleID="S69" />
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S70" />
+   </Row>
+   <Row ss:Index="3" ss:Height="148.5">
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">1268</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Shirts</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title LT language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in RU language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in LV language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in EE language</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">&amp;lt;div&gt;&#10;	&amp;lt;div&gt;&amp;lt;span&gt;Long description, can be with HTML&amp;lt;/span&gt;&amp;lt;br /&gt;&amp;lt;/div&gt;&#10;		&amp;lt;div&gt;Some long description&amp;lt;/div&gt;&#10;		&amp;lt;/div&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in RU language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in LV language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in EE language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S72" ss:HRef="http://www.youtube.com/watch?v=65Chy5kPQ-Y"><Data ss:Type="String">http://www.youtube.com/watch?v=65Chy5kPQ-Y</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">country</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Taivan</Data>
+    </Cell>
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S69" />
+    <Cell ss:StyleID="S69" />
+    <Cell ss:StyleID="S69" />
+    <Cell ss:StyleID="S69" />
+    <Cell ss:StyleID="S69" />
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S70" />
+   </Row>
+   <Row ss:Index="4" ss:Height="148.5">
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">1268</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Shirts</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title LT language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in RU language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in LV language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in EE language</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">&amp;lt;div&gt;&#10;	&amp;lt;div&gt;&amp;lt;span&gt;Long description, can be with HTML&amp;lt;/span&gt;&amp;lt;br /&gt;&amp;lt;/div&gt;&#10;		&amp;lt;div&gt;Some long description&amp;lt;/div&gt;&#10;		&amp;lt;/div&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in RU language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in LV language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in EE language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S72" ss:HRef="http://www.youtube.com/watch?v=65Chy5kPQ-Y"><Data ss:Type="String">http://www.youtube.com/watch?v=65Chy5kPQ-Y</Data>
+    </Cell>
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S72" ss:HRef="http://image.server.lt/?id=10"><Data ss:Type="String">http://image.server.lt/?id=10</Data>
+    </Cell>
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">1.20</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">0.20</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">0.10</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">1.20</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">12345678901</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">oxpg6964</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">G0133901</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5" ss:Height="148.5">
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">1268</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Shirts</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title LT language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in RU language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in LV language</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">Product title in EE language</Data>
+    </Cell>
+    <Cell ss:StyleID="S71"><Data ss:Type="String">&amp;lt;div&gt;&#10;	&amp;lt;div&gt;&amp;lt;span&gt;Long description, can be with HTML&amp;lt;/span&gt;&amp;lt;br /&gt;&amp;lt;/div&gt;&#10;		&amp;lt;div&gt;Some long description&amp;lt;/div&gt;&#10;		&amp;lt;/div&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in RU language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in LV language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">&amp;lt;p&gt;Some long description in EE language.&amp;lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S72" ss:HRef="http://www.youtube.com/watch?v=65Chy5kPQ-Y"><Data ss:Type="String">http://www.youtube.com/watch?v=65Chy5kPQ-Y</Data>
+    </Cell>
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S72" ss:HRef="http://image.server.lt/?id=12"><Data ss:Type="String">http://image.server.lt/?id=12</Data>
+    </Cell>
+    <Cell ss:StyleID="S70" />
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">1.20</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">0.20</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">0.10</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">1.20</Data>
+    </Cell>
+    <Cell ss:StyleID="S69"><Data ss:Type="Number">12345678901</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">oxpg6964</Data>
+    </Cell>
+    <Cell ss:StyleID="S70"><Data ss:Type="String">G0133901</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1</RangeSelection>
+    </Pane>
+   </Panes>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="13.5" ss:DefaultColumnWidth="54" ss:ExpandedColumnCount="1" />
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1</RangeSelection>
+    </Pane>
+   </Panes>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="13.5" ss:DefaultColumnWidth="54" ss:ExpandedColumnCount="1" />
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1</RangeSelection>
+    </Pane>
+   </Panes>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
